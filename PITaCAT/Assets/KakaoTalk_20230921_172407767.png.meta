@@ -1,0 +1,1288 @@
+fileFormatVersion: 2
+guid: 39d86905f6b661a4b97e0976ad5694bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1027320770460785884
+    second: KakaoTalk_20230921_172407767_0
+  - first:
+      213: 7630777317047818012
+    second: KakaoTalk_20230921_172407767_1
+  - first:
+      213: 2404676371979218745
+    second: KakaoTalk_20230921_172407767_2
+  - first:
+      213: 5196939036054639317
+    second: KakaoTalk_20230921_172407767_3
+  - first:
+      213: -6405647948443119157
+    second: KakaoTalk_20230921_172407767_4
+  - first:
+      213: 9104858632211677744
+    second: KakaoTalk_20230921_172407767_5
+  - first:
+      213: 3635812427879842992
+    second: KakaoTalk_20230921_172407767_6
+  - first:
+      213: -861805327354249790
+    second: KakaoTalk_20230921_172407767_7
+  - first:
+      213: -2245861866586834793
+    second: KakaoTalk_20230921_172407767_8
+  - first:
+      213: -1858743378165729158
+    second: KakaoTalk_20230921_172407767_9
+  - first:
+      213: 7350588718767800136
+    second: KakaoTalk_20230921_172407767_10
+  - first:
+      213: -5495967739983763228
+    second: KakaoTalk_20230921_172407767_11
+  - first:
+      213: 3429252457946391858
+    second: KakaoTalk_20230921_172407767_12
+  - first:
+      213: 6402811387790467786
+    second: KakaoTalk_20230921_172407767_13
+  - first:
+      213: 8421453180383442852
+    second: KakaoTalk_20230921_172407767_14
+  - first:
+      213: -6974448847271946493
+    second: KakaoTalk_20230921_172407767_15
+  - first:
+      213: -1129098593331680539
+    second: KakaoTalk_20230921_172407767_16
+  - first:
+      213: -7739211343762140603
+    second: KakaoTalk_20230921_172407767_17
+  - first:
+      213: 6025325257692374459
+    second: KakaoTalk_20230921_172407767_18
+  - first:
+      213: 5538042997225098503
+    second: KakaoTalk_20230921_172407767_19
+  - first:
+      213: 2146532012841216021
+    second: KakaoTalk_20230921_172407767_20
+  - first:
+      213: 2702461036435056885
+    second: KakaoTalk_20230921_172407767_21
+  - first:
+      213: -6119260229269078341
+    second: KakaoTalk_20230921_172407767_22
+  - first:
+      213: 4110890508020477625
+    second: KakaoTalk_20230921_172407767_23
+  - first:
+      213: 4894312717882355893
+    second: KakaoTalk_20230921_172407767_24
+  - first:
+      213: -6984866905028837120
+    second: KakaoTalk_20230921_172407767_25
+  - first:
+      213: 781356892010694964
+    second: KakaoTalk_20230921_172407767_26
+  - first:
+      213: 7870528796473495942
+    second: KakaoTalk_20230921_172407767_27
+  - first:
+      213: -8054082349215973488
+    second: KakaoTalk_20230921_172407767_28
+  - first:
+      213: -3523802724154130530
+    second: KakaoTalk_20230921_172407767_29
+  - first:
+      213: 5197897026958289966
+    second: KakaoTalk_20230921_172407767_30
+  - first:
+      213: -3180598052854579369
+    second: KakaoTalk_20230921_172407767_31
+  - first:
+      213: -1204886160906501660
+    second: KakaoTalk_20230921_172407767_32
+  - first:
+      213: 6742921658313389018
+    second: KakaoTalk_20230921_172407767_33
+  - first:
+      213: -6679054495325824436
+    second: KakaoTalk_20230921_172407767_34
+  - first:
+      213: -2911118740331276934
+    second: KakaoTalk_20230921_172407767_35
+  - first:
+      213: 3463977865331506341
+    second: KakaoTalk_20230921_172407767_36
+  - first:
+      213: -8123164326454509228
+    second: KakaoTalk_20230921_172407767_37
+  - first:
+      213: 4170113239439226812
+    second: KakaoTalk_20230921_172407767_38
+  - first:
+      213: -8615287215252306365
+    second: KakaoTalk_20230921_172407767_39
+  - first:
+      213: -6532202519222644395
+    second: KakaoTalk_20230921_172407767_40
+  - first:
+      213: 334191180322745797
+    second: KakaoTalk_20230921_172407767_41
+  - first:
+      213: -2804318184694185618
+    second: KakaoTalk_20230921_172407767_42
+  - first:
+      213: 5885538145521392657
+    second: KakaoTalk_20230921_172407767_43
+  - first:
+      213: -7495528104416590603
+    second: KakaoTalk_20230921_172407767_44
+  - first:
+      213: 1956749736140383802
+    second: KakaoTalk_20230921_172407767_45
+  - first:
+      213: 4373886666613173740
+    second: KakaoTalk_20230921_172407767_46
+  - first:
+      213: 59033443803008901
+    second: KakaoTalk_20230921_172407767_47
+  - first:
+      213: 8005630657506292442
+    second: KakaoTalk_20230921_172407767_48
+  - first:
+      213: 6045356471035564499
+    second: KakaoTalk_20230921_172407767_49
+  - first:
+      213: 8228631028884665136
+    second: KakaoTalk_20230921_172407767_50
+  - first:
+      213: -9026107313232514151
+    second: KakaoTalk_20230921_172407767_51
+  - first:
+      213: 4091307702112227818
+    second: KakaoTalk_20230921_172407767_52
+  - first:
+      213: 5633988949322242547
+    second: KakaoTalk_20230921_172407767_53
+  - first:
+      213: 310589098218977358
+    second: KakaoTalk_20230921_172407767_54
+  - first:
+      213: 3805711537518905135
+    second: KakaoTalk_20230921_172407767_55
+  - first:
+      213: 1708417645434994222
+    second: KakaoTalk_20230921_172407767_56
+  - first:
+      213: 779687975765057902
+    second: KakaoTalk_20230921_172407767_57
+  - first:
+      213: -8693419850318636001
+    second: KakaoTalk_20230921_172407767_58
+  - first:
+      213: 5642119238919765814
+    second: KakaoTalk_20230921_172407767_59
+  - first:
+      213: 5220986212340030881
+    second: KakaoTalk_20230921_172407767_60
+  - first:
+      213: 5792805465920028720
+    second: KakaoTalk_20230921_172407767_61
+  - first:
+      213: 7979651805054977467
+    second: KakaoTalk_20230921_172407767_62
+  - first:
+      213: -3787957990670566158
+    second: KakaoTalk_20230921_172407767_63
+  - first:
+      213: 1435022490822482208
+    second: KakaoTalk_20230921_172407767_64
+  - first:
+      213: 8893822625436971394
+    second: KakaoTalk_20230921_172407767_65
+  - first:
+      213: -2018562234205119426
+    second: KakaoTalk_20230921_172407767_66
+  - first:
+      213: -1530043961527831827
+    second: KakaoTalk_20230921_172407767_67
+  - first:
+      213: -5462648778424513051
+    second: KakaoTalk_20230921_172407767_68
+  - first:
+      213: 7088752225759642738
+    second: KakaoTalk_20230921_172407767_69
+  - first:
+      213: 468822362902526084
+    second: KakaoTalk_20230921_172407767_70
+  - first:
+      213: -8046540944336716002
+    second: KakaoTalk_20230921_172407767_71
+  - first:
+      213: -1325115686109290716
+    second: KakaoTalk_20230921_172407767_72
+  - first:
+      213: 302840548842779417
+    second: KakaoTalk_20230921_172407767_73
+  - first:
+      213: 6349224625502159452
+    second: KakaoTalk_20230921_172407767_74
+  - first:
+      213: 1077940985280978842
+    second: KakaoTalk_20230921_172407767_75
+  - first:
+      213: -3687040035884005695
+    second: KakaoTalk_20230921_172407767_76
+  - first:
+      213: -7024417410958036581
+    second: KakaoTalk_20230921_172407767_77
+  - first:
+      213: 4003417976965042558
+    second: KakaoTalk_20230921_172407767_78
+  - first:
+      213: 8509116118118541813
+    second: KakaoTalk_20230921_172407767_79
+  - first:
+      213: -921480408568239866
+    second: KakaoTalk_20230921_172407767_80
+  - first:
+      213: -7325837021653701803
+    second: KakaoTalk_20230921_172407767_81
+  - first:
+      213: 9019508512450888964
+    second: KakaoTalk_20230921_172407767_82
+  - first:
+      213: 3023568511206651431
+    second: KakaoTalk_20230921_172407767_83
+  - first:
+      213: 2472738137795907855
+    second: KakaoTalk_20230921_172407767_84
+  - first:
+      213: -8122105106321815854
+    second: KakaoTalk_20230921_172407767_85
+  - first:
+      213: 2824233969918649700
+    second: KakaoTalk_20230921_172407767_86
+  - first:
+      213: -9080317995283054040
+    second: KakaoTalk_20230921_172407767_87
+  - first:
+      213: 2753708350088890492
+    second: KakaoTalk_20230921_172407767_88
+  - first:
+      213: -4445320073431917128
+    second: KakaoTalk_20230921_172407767_89
+  - first:
+      213: 4254814781500380691
+    second: KakaoTalk_20230921_172407767_90
+  - first:
+      213: 1592100443257348501
+    second: KakaoTalk_20230921_172407767_91
+  - first:
+      213: -3740712214934142152
+    second: KakaoTalk_20230921_172407767_92
+  - first:
+      213: 5127017745319686885
+    second: KakaoTalk_20230921_172407767_93
+  - first:
+      213: 4139763674887030729
+    second: KakaoTalk_20230921_172407767_94
+  - first:
+      213: 9024786577776159195
+    second: KakaoTalk_20230921_172407767_95
+  - first:
+      213: 2241720035752569498
+    second: KakaoTalk_20230921_172407767_96
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0.4
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KakaoTalk_20230921_172407767_0
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 823
+        width: 108
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc12b93cc6c14e00800000000000000
+      internalID: 1027320770460785884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KakaoTalk_20230921_172407767_1
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 808
+        width: 108
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c175ebe4a87f5e960800000000000000
+      internalID: 7630777317047818012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KakaoTalk_20230921_172407767_2
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 823
+        width: 108
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fa8977b602f5120800000000000000
+      internalID: 2404676371979218745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KakaoTalk_20230921_172407767_3
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 810
+        width: 108
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2d56bc48c3f1840800000000000000
+      internalID: 5196939036054639317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KakaoTalk_20230921_172407767_4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 634
+        width: 85
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc196d421219a17a0800000000000000
+      internalID: -6405647948443119157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KakaoTalk_20230921_172407767_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 633
+        width: 85
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0324027bfa4fa5e70800000000000000
+      internalID: 9104858632211677744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KakaoTalk_20230921_172407767_6
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 634
+        width: 85
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b48ab9c320057230800000000000000
+      internalID: 3635812427879842992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KakaoTalk_20230921_172407767_7
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 635
+        width: 85
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdb28dee904a04f0800000000000000
+      internalID: -861805327354249790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KakaoTalk_20230921_172407767_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 454
+        width: 84
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798fe7b088815d0e0800000000000000
+      internalID: -2245861866586834793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KakaoTalk_20230921_172407767_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 449
+        width: 84
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7872dfdeba6436e0800000000000000
+      internalID: -1858743378165729158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KakaoTalk_20230921_172407767_10
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 454
+        width: 84
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ff520ae79820660800000000000000
+      internalID: 7350588718767800136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KakaoTalk_20230921_172407767_11
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 448
+        width: 84
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8e24995766ab3b0800000000000000
+      internalID: -5495967739983763228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KakaoTalk_20230921_172407767_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 259
+        width: 107
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235a70901f6279f20800000000000000
+      internalID: 3429252457946391858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KakaoTalk_20230921_172407767_13
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 239
+        width: 107
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2a31d980b5bd850800000000000000
+      internalID: 6402811387790467786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KakaoTalk_20230921_172407767_14
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 259
+        width: 107
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7b65d7c030fd470800000000000000
+      internalID: 8421453180383442852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KakaoTalk_20230921_172407767_15
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 246
+        width: 107
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3071932c9b7c53f90800000000000000
+      internalID: -6974448847271946493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape:
+    - - {x: -529, y: -253}
+      - {x: -531, y: -235}
+      - {x: -518, y: -217}
+      - {x: -518, y: -210}
+      - {x: -521, y: -204}
+      - {x: -519, y: -197}
+      - {x: -520, y: -178}
+      - {x: -519, y: -170}
+      - {x: -526, y: -167}
+      - {x: -538, y: -167}
+      - {x: -559, y: -181}
+      - {x: -587, y: -182}
+      - {x: -593, y: -177}
+      - {x: -614, y: -167}
+      - {x: -619, y: -167}
+      - {x: -624, y: -172}
+      - {x: -626, y: -185}
+      - {x: -626, y: -198}
+      - {x: -629, y: -210}
+      - {x: -629, y: -223}
+      - {x: -618, y: -230}
+      - {x: -612, y: -243}
+      - {x: -606, y: -248}
+      - {x: -619, y: -261}
+      - {x: -621, y: -268}
+      - {x: -622, y: -276}
+      - {x: -614, y: -288}
+      - {x: -602, y: -289}
+      - {x: -590, y: -289}
+      - {x: -573, y: -298}
+      - {x: -568, y: -303}
+      - {x: -552, y: -303}
+      - {x: -544, y: -293}
+      - {x: -539, y: -271}
+      - {x: -529, y: -261}
+    - - {x: -130, y: -281}
+      - {x: -125, y: -278}
+      - {x: -121, y: -260}
+      - {x: -130, y: -235}
+      - {x: -114, y: -210}
+      - {x: -114, y: -202}
+      - {x: -117, y: -196}
+      - {x: -115, y: -189}
+      - {x: -116, y: -170}
+      - {x: -115, y: -162}
+      - {x: -122, y: -159}
+      - {x: -134, y: -159}
+      - {x: -145, y: -166}
+      - {x: -155, y: -173}
+      - {x: -183, y: -174}
+      - {x: -189, y: -169}
+      - {x: -210, y: -159}
+      - {x: -215, y: -159}
+      - {x: -221, y: -163}
+      - {x: -223, y: -191}
+      - {x: -225, y: -199}
+      - {x: -225, y: -214}
+      - {x: -212, y: -225}
+      - {x: -207, y: -235}
+      - {x: -215, y: -246}
+      - {x: -215, y: -254}
+      - {x: -205, y: -264}
+      - {x: -200, y: -264}
+      - {x: -200, y: -286}
+      - {x: -192, y: -295}
+      - {x: -189, y: -296}
+      - {x: -177, y: -296}
+      - {x: -170, y: -291}
+      - {x: -168, y: -282}
+      - {x: -143, y: -283}
+    - - {x: -727, y: -259}
+      - {x: -728, y: -248}
+      - {x: -735, y: -229}
+      - {x: -719, y: -205}
+      - {x: -719, y: -196}
+      - {x: -722, y: -190}
+      - {x: -720, y: -183}
+      - {x: -721, y: -164}
+      - {x: -723, y: -158}
+      - {x: -728, y: -153}
+      - {x: -733, y: -153}
+      - {x: -750, y: -160}
+      - {x: -760, y: -167}
+      - {x: -788, y: -168}
+      - {x: -794, y: -163}
+      - {x: -815, y: -153}
+      - {x: -820, y: -153}
+      - {x: -825, y: -158}
+      - {x: -827, y: -171}
+      - {x: -827, y: -184}
+      - {x: -830, y: -196}
+      - {x: -830, y: -206}
+      - {x: -824, y: -214}
+      - {x: -815, y: -224}
+      - {x: -812, y: -229}
+      - {x: -807, y: -234}
+      - {x: -816, y: -242}
+      - {x: -821, y: -252}
+      - {x: -820, y: -259}
+      - {x: -806, y: -272}
+      - {x: -802, y: -281}
+      - {x: -799, y: -283}
+      - {x: -749, y: -283}
+      - {x: -743, y: -276}
+      - {x: -743, y: -267}
+      - {x: -735, y: -265}
+    - - {x: -331, y: -265}
+      - {x: -324, y: -258}
+      - {x: -324, y: -252}
+      - {x: -331, y: -229}
+      - {x: -315, y: -205}
+      - {x: -315, y: -196}
+      - {x: -318, y: -190}
+      - {x: -316, y: -183}
+      - {x: -317, y: -164}
+      - {x: -319, y: -158}
+      - {x: -324, y: -153}
+      - {x: -329, y: -153}
+      - {x: -346, y: -160}
+      - {x: -356, y: -167}
+      - {x: -384, y: -168}
+      - {x: -390, y: -163}
+      - {x: -411, y: -153}
+      - {x: -416, y: -153}
+      - {x: -422, y: -157}
+      - {x: -424, y: -185}
+      - {x: -426, y: -193}
+      - {x: -426, y: -208}
+      - {x: -417, y: -215}
+      - {x: -409, y: -229}
+      - {x: -403, y: -234}
+      - {x: -412, y: -242}
+      - {x: -417, y: -252}
+      - {x: -416, y: -258}
+      - {x: -402, y: -272}
+      - {x: -398, y: -281}
+      - {x: -394, y: -283}
+      - {x: -345, y: -283}
+      - {x: -339, y: -276}
+      - {x: -339, y: -267}
+    - - {x: -154, y: -93}
+      - {x: -149, y: -93}
+      - {x: -131, y: -77}
+      - {x: -128, y: -55}
+      - {x: -127, y: -49}
+      - {x: -132, y: -42}
+      - {x: -136, y: -43}
+      - {x: -131, y: -34}
+      - {x: -126, y: -24}
+      - {x: -126, y: -17}
+      - {x: -130, y: -11}
+      - {x: -143, y: 1}
+      - {x: -143, y: 7}
+      - {x: -148, y: 26}
+      - {x: -154, y: 34}
+      - {x: -159, y: 33}
+      - {x: -165, y: 30}
+      - {x: -169, y: 34}
+      - {x: -174, y: 34}
+      - {x: -184, y: 23}
+      - {x: -191, y: 9}
+      - {x: -208, y: -8}
+      - {x: -214, y: -20}
+      - {x: -214, y: -36}
+      - {x: -212, y: -42}
+      - {x: -208, y: -50}
+      - {x: -199, y: -58}
+      - {x: -206, y: -64}
+      - {x: -208, y: -67}
+      - {x: -209, y: -75}
+      - {x: -208, y: -81}
+      - {x: -203, y: -87}
+      - {x: -191, y: -94}
+      - {x: -181, y: -94}
+      - {x: -174, y: -89}
+      - {x: -173, y: -84}
+      - {x: -159, y: -90}
+    - - {x: -555, y: -93}
+      - {x: -539, y: -80}
+      - {x: -540, y: -68}
+      - {x: -534, y: -57}
+      - {x: -532, y: -46}
+      - {x: -537, y: -39}
+      - {x: -541, y: -40}
+      - {x: -537, y: -31}
+      - {x: -532, y: -21}
+      - {x: -532, y: -12}
+      - {x: -548, y: 5}
+      - {x: -549, y: 10}
+      - {x: -554, y: 29}
+      - {x: -559, y: 37}
+      - {x: -564, y: 37}
+      - {x: -570, y: 35}
+      - {x: -575, y: 37}
+      - {x: -582, y: 37}
+      - {x: -590, y: 26}
+      - {x: -597, y: 12}
+      - {x: -614, y: -5}
+      - {x: -620, y: -17}
+      - {x: -620, y: -33}
+      - {x: -618, y: -39}
+      - {x: -614, y: -47}
+      - {x: -605, y: -55}
+      - {x: -614, y: -63}
+      - {x: -611, y: -71}
+      - {x: -615, y: -79}
+      - {x: -615, y: -83}
+      - {x: -612, y: -87}
+      - {x: -601, y: -93}
+      - {x: -587, y: -93}
+      - {x: -582, y: -86}
+      - {x: -579, y: -81}
+      - {x: -564, y: -93}
+    - - {x: -749, y: -53}
+      - {x: -747, y: -42}
+      - {x: -752, y: -35}
+      - {x: -756, y: -36}
+      - {x: -766, y: -41}
+      - {x: -767, y: -37}
+      - {x: -756, y: -27}
+      - {x: -752, y: -20}
+      - {x: -750, y: -14}
+      - {x: -745, y: -7}
+      - {x: -745, y: -1}
+      - {x: -749, y: 5}
+      - {x: -761, y: 18}
+      - {x: -762, y: 27}
+      - {x: -764, y: 37}
+      - {x: -773, y: 50}
+      - {x: -775, y: 50}
+      - {x: -778, y: 49}
+      - {x: -787, y: 50}
+      - {x: -793, y: 50}
+      - {x: -803, y: 39}
+      - {x: -810, y: 25}
+      - {x: -827, y: 8}
+      - {x: -832, y: -4}
+      - {x: -833, y: -10}
+      - {x: -833, y: -22}
+      - {x: -828, y: -34}
+      - {x: -818, y: -42}
+      - {x: -813, y: -44}
+      - {x: -819, y: -50}
+      - {x: -819, y: -61}
+      - {x: -816, y: -64}
+      - {x: -813, y: -70}
+      - {x: -812, y: -78}
+      - {x: -806, y: -85}
+      - {x: -798, y: -88}
+      - {x: -777, y: -88}
+      - {x: -772, y: -84}
+      - {x: -766, y: -72}
+      - {x: -756, y: -64}
+    - - {x: -345, y: -53}
+      - {x: -343, y: -42}
+      - {x: -348, y: -35}
+      - {x: -352, y: -36}
+      - {x: -362, y: -41}
+      - {x: -363, y: -37}
+      - {x: -352, y: -27}
+      - {x: -348, y: -20}
+      - {x: -341, y: -8}
+      - {x: -341, y: -1}
+      - {x: -345, y: 5}
+      - {x: -358, y: 17}
+      - {x: -358, y: 23}
+      - {x: -363, y: 42}
+      - {x: -369, y: 50}
+      - {x: -374, y: 49}
+      - {x: -383, y: 50}
+      - {x: -389, y: 50}
+      - {x: -399, y: 39}
+      - {x: -406, y: 25}
+      - {x: -423, y: 8}
+      - {x: -429, y: -4}
+      - {x: -429, y: -22}
+      - {x: -423, y: -34}
+      - {x: -414, y: -42}
+      - {x: -409, y: -44}
+      - {x: -415, y: -50}
+      - {x: -415, y: -61}
+      - {x: -412, y: -64}
+      - {x: -409, y: -70}
+      - {x: -408, y: -78}
+      - {x: -402, y: -85}
+      - {x: -397, y: -87}
+      - {x: -394, y: -88}
+      - {x: -373, y: -88}
+      - {x: -368, y: -84}
+      - {x: -362, y: -72}
+      - {x: -352, y: -64}
+    - - {x: -542, y: 100}
+      - {x: -542, y: 105}
+      - {x: -546, y: 123}
+      - {x: -551, y: 128}
+      - {x: -543, y: 136}
+      - {x: -537, y: 147}
+      - {x: -537, y: 163}
+      - {x: -538, y: 165}
+      - {x: -540, y: 174}
+      - {x: -551, y: 186}
+      - {x: -559, y: 196}
+      - {x: -570, y: 213}
+      - {x: -578, y: 220}
+      - {x: -582, y: 220}
+      - {x: -596, y: 219}
+      - {x: -600, y: 216}
+      - {x: -605, y: 207}
+      - {x: -608, y: 193}
+      - {x: -621, y: 175}
+      - {x: -626, y: 168}
+      - {x: -626, y: 156}
+      - {x: -614, y: 144}
+      - {x: -605, y: 132}
+      - {x: -617, y: 144}
+      - {x: -620, y: 144}
+      - {x: -625, y: 141}
+      - {x: -626, y: 136}
+      - {x: -626, y: 129}
+      - {x: -617, y: 114}
+      - {x: -618, y: 104}
+      - {x: -603, y: 91}
+      - {x: -594, y: 91}
+      - {x: -584, y: 100}
+      - {x: -569, y: 91}
+      - {x: -556, y: 91}
+    - - {x: -764, y: 119}
+      - {x: -764, y: 130}
+      - {x: -765, y: 138}
+      - {x: -756, y: 146}
+      - {x: -750, y: 157}
+      - {x: -750, y: 173}
+      - {x: -753, y: 184}
+      - {x: -764, y: 196}
+      - {x: -772, y: 206}
+      - {x: -783, y: 223}
+      - {x: -791, y: 230}
+      - {x: -795, y: 230}
+      - {x: -809, y: 229}
+      - {x: -813, y: 226}
+      - {x: -818, y: 217}
+      - {x: -821, y: 203}
+      - {x: -834, y: 185}
+      - {x: -839, y: 178}
+      - {x: -839, y: 166}
+      - {x: -816, y: 143}
+      - {x: -819, y: 136}
+      - {x: -827, y: 144}
+      - {x: -831, y: 145}
+      - {x: -836, y: 138}
+      - {x: -835, y: 132}
+      - {x: -834, y: 127}
+      - {x: -827, y: 116}
+      - {x: -817, y: 108}
+      - {x: -813, y: 99}
+      - {x: -807, y: 92}
+      - {x: -784, y: 92}
+      - {x: -777, y: 95}
+      - {x: -772, y: 99}
+      - {x: -769, y: 110}
+    - - {x: -360, y: 119}
+      - {x: -360, y: 130}
+      - {x: -361, y: 138}
+      - {x: -352, y: 146}
+      - {x: -346, y: 157}
+      - {x: -346, y: 172}
+      - {x: -348, y: 178}
+      - {x: -351, y: 188}
+      - {x: -364, y: 199}
+      - {x: -376, y: 219}
+      - {x: -386, y: 230}
+      - {x: -391, y: 230}
+      - {x: -405, y: 229}
+      - {x: -409, y: 226}
+      - {x: -414, y: 217}
+      - {x: -417, y: 203}
+      - {x: -417, y: 197}
+      - {x: -430, y: 185}
+      - {x: -435, y: 178}
+      - {x: -435, y: 166}
+      - {x: -412, y: 143}
+      - {x: -415, y: 136}
+      - {x: -423, y: 144}
+      - {x: -427, y: 145}
+      - {x: -432, y: 138}
+      - {x: -430, y: 126}
+      - {x: -419, y: 111}
+      - {x: -409, y: 106}
+      - {x: -409, y: 99}
+      - {x: -403, y: 92}
+      - {x: -380, y: 92}
+      - {x: -373, y: 95}
+      - {x: -368, y: 99}
+      - {x: -365, y: 110}
+    - - {x: -130, y: 128}
+      - {x: -123, y: 136}
+      - {x: -117, y: 147}
+      - {x: -117, y: 162}
+      - {x: -119, y: 168}
+      - {x: -123, y: 178}
+      - {x: -131, y: 186}
+      - {x: -136, y: 188}
+      - {x: -140, y: 195}
+      - {x: -147, y: 209}
+      - {x: -157, y: 220}
+      - {x: -162, y: 220}
+      - {x: -176, y: 219}
+      - {x: -180, y: 216}
+      - {x: -185, y: 207}
+      - {x: -188, y: 193}
+      - {x: -188, y: 187}
+      - {x: -201, y: 175}
+      - {x: -206, y: 168}
+      - {x: -206, y: 156}
+      - {x: -194, y: 144}
+      - {x: -186, y: 133}
+      - {x: -197, y: 144}
+      - {x: -201, y: 145}
+      - {x: -206, y: 138}
+      - {x: -204, y: 127}
+      - {x: -202, y: 122}
+      - {x: -202, y: 110}
+      - {x: -184, y: 94}
+      - {x: -179, y: 94}
+      - {x: -168, y: 102}
+      - {x: -160, y: 103}
+      - {x: -158, y: 98}
+      - {x: -152, y: 93}
+      - {x: -140, y: 93}
+      - {x: -130, y: 100}
+      - {x: -125, y: 106}
+      - {x: -125, y: 121}
+    - - {x: -533, y: 316}
+      - {x: -542, y: 325}
+      - {x: -536, y: 332}
+      - {x: -532, y: 349}
+      - {x: -524, y: 354}
+      - {x: -523, y: 362}
+      - {x: -523, y: 384}
+      - {x: -525, y: 398}
+      - {x: -532, y: 401}
+      - {x: -544, y: 401}
+      - {x: -565, y: 387}
+      - {x: -593, y: 386}
+      - {x: -599, y: 391}
+      - {x: -620, y: 401}
+      - {x: -625, y: 401}
+      - {x: -630, y: 396}
+      - {x: -632, y: 383}
+      - {x: -632, y: 370}
+      - {x: -635, y: 360}
+      - {x: -635, y: 346}
+      - {x: -626, y: 339}
+      - {x: -620, y: 330}
+      - {x: -616, y: 318}
+      - {x: -628, y: 302}
+      - {x: -626, y: 293}
+      - {x: -618, y: 281}
+      - {x: -606, y: 280}
+      - {x: -594, y: 280}
+      - {x: -580, y: 275}
+      - {x: -573, y: 266}
+      - {x: -558, y: 266}
+      - {x: -549, y: 273}
+      - {x: -543, y: 298}
+      - {x: -533, y: 308}
+    - - {x: -121, y: 283}
+      - {x: -116, y: 286}
+      - {x: -112, y: 304}
+      - {x: -126, y: 324}
+      - {x: -120, y: 332}
+      - {x: -115, y: 348}
+      - {x: -107, y: 360}
+      - {x: -107, y: 371}
+      - {x: -112, y: 396}
+      - {x: -117, y: 401}
+      - {x: -122, y: 401}
+      - {x: -139, y: 394}
+      - {x: -149, y: 387}
+      - {x: -177, y: 386}
+      - {x: -183, y: 391}
+      - {x: -204, y: 401}
+      - {x: -209, y: 401}
+      - {x: -215, y: 397}
+      - {x: -217, y: 369}
+      - {x: -219, y: 362}
+      - {x: -219, y: 346}
+      - {x: -200, y: 324}
+      - {x: -206, y: 318}
+      - {x: -206, y: 310}
+      - {x: -196, y: 300}
+      - {x: -191, y: 299}
+      - {x: -191, y: 277}
+      - {x: -183, y: 268}
+      - {x: -167, y: 268}
+      - {x: -161, y: 273}
+      - {x: -159, y: 282}
+      - {x: -134, y: 281}
+    - - {x: -749, y: 299}
+      - {x: -742, y: 306}
+      - {x: -742, y: 312}
+      - {x: -750, y: 335}
+      - {x: -745, y: 342}
+      - {x: -740, y: 358}
+      - {x: -732, y: 370}
+      - {x: -732, y: 381}
+      - {x: -737, y: 406}
+      - {x: -742, y: 411}
+      - {x: -747, y: 411}
+      - {x: -764, y: 404}
+      - {x: -774, y: 397}
+      - {x: -802, y: 396}
+      - {x: -808, y: 401}
+      - {x: -829, y: 411}
+      - {x: -834, y: 411}
+      - {x: -839, y: 406}
+      - {x: -841, y: 393}
+      - {x: -841, y: 380}
+      - {x: -844, y: 368}
+      - {x: -844, y: 355}
+      - {x: -833, y: 348}
+      - {x: -827, y: 335}
+      - {x: -821, y: 330}
+      - {x: -830, y: 322}
+      - {x: -835, y: 312}
+      - {x: -834, y: 305}
+      - {x: -820, y: 292}
+      - {x: -816, y: 283}
+      - {x: -812, y: 281}
+      - {x: -763, y: 281}
+      - {x: -757, y: 288}
+      - {x: -757, y: 298}
+    - - {x: -345, y: 299}
+      - {x: -337, y: 305}
+      - {x: -338, y: 316}
+      - {x: -346, y: 335}
+      - {x: -341, y: 342}
+      - {x: -336, y: 358}
+      - {x: -328, y: 370}
+      - {x: -328, y: 381}
+      - {x: -333, y: 406}
+      - {x: -338, y: 411}
+      - {x: -343, y: 411}
+      - {x: -360, y: 404}
+      - {x: -370, y: 397}
+      - {x: -398, y: 396}
+      - {x: -404, y: 401}
+      - {x: -425, y: 411}
+      - {x: -430, y: 411}
+      - {x: -436, y: 407}
+      - {x: -438, y: 379}
+      - {x: -440, y: 372}
+      - {x: -440, y: 356}
+      - {x: -434, y: 351}
+      - {x: -422, y: 335}
+      - {x: -417, y: 330}
+      - {x: -426, y: 322}
+      - {x: -431, y: 312}
+      - {x: -430, y: 306}
+      - {x: -416, y: 292}
+      - {x: -412, y: 283}
+      - {x: -408, y: 281}
+      - {x: -359, y: 281}
+      - {x: -353, y: 288}
+      - {x: -353, y: 298}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

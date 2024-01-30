@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2480164294461199430
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2480164294461199431}
+  - component: {fileID: 2480164294461199428}
+  m_Layer: 0
+  m_Name: ButtonObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2480164294461199431
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2480164294461199430}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 893.81226, y: 533.3691, z: -93.591156}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2480164294461199428
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2480164294461199430}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e52d690d206f17489009b4de7b9ab5e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneToLoad2: HouseInterior
+  playerPosition: {x: 5.3, y: 3.3}
+  playerStorage2: {fileID: 11400000, guid: 5fef5f2dcd5ae794ab61d2ac6d982d6e, type: 2}
+  fadeInPanel2: {fileID: 2273713211841574288, guid: 8297f1b5c69a5cb45b42aca1716611f2, type: 3}
+  fadeOutPanel2: {fileID: 963400357805992075, guid: 98597047ec20c7a4cb1b3806d5063476, type: 3}
+  fadeWait2: 0.33

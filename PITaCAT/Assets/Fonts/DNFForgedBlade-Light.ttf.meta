@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ac660f0cbb1b9554dbe7379ed636349b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - DNF Forged Blade
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 27e6e60c16952f343a1799ef4c960773, type: 3}
+  - {fileID: 12800000, guid: cb4625dfe739f814aa21a24c39769fac, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
